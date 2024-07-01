@@ -1,26 +1,6 @@
-# Positivus - Digital Marketing Agency Landing Page
+# NCKU ARCH 80th Anniversary
 
-Introducing "Positivus" - a stunning and versatile Astro theme designed for digital marketing agencies.
-
-Built with clean, modern aesthetics and leveraging the power of Astro and Tailwind, Positivus empowers you to craft a captivating website that showcases your agency's expertise and fosters trust with potential clients.
-
-[![Static Badge](https://img.shields.io/badge/UI%2FUX-Olga-blue)](https://www.figma.com/@olgaaverchenko) [![View Demo](https://img.shields.io/badge/Develop-Manul_Thanura-red)](https://lk.linkedin.com/in/manulthanura)
-[![Static Badge](https://img.shields.io/badge/View_Demo-green)](https://positivustheme.vercel.app)
-[![Static Badge](https://img.shields.io/badge/Astro-orange)](https://astro.build/)
-
-![Cover](./public/cover.png)
-
-## Theme Features
-
-Leveraging the power of Astro and Tailwind CSS, Positivus offers:
-
-- Clean and modern design.
-- SEO-friendly.
-- Multiple Layouts.
-- Seamless Navigation.
-- Pre-built Sections.
-- Customizable Components.
-- Mobile-Responsiveness.
+This is the source code for the NCKU ARCH 80th Anniversary website.
 
 ## 🚀 Project Structure
 
@@ -45,9 +25,9 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## Disclaimer
 
-Feel free to check [Astro documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+This website is based on the Astro theme "Positivus" by [Olga Averchenko](https://www.figma.com/@olgaaverchenko).
 
 ## 📄 License
 
