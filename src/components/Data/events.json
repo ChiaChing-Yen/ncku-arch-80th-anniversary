@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name1": "Search engine",
+        "name1": "北展",
         "name2": "optimization",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
@@ -10,9 +10,9 @@
     },
     {
         "id": 2,
-        "name1": "Pay-per-click",
-        "name2": "advertising",
-        "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
+        "name1": "演講",
+        "name2": "",
+        "background": "h-[310px] p-12 bg-brick rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
         "image": "./services/02.svg"
