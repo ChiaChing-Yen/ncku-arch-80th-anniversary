@@ -25,9 +25,15 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
+alternatively, you can use `yarn` to run the commands.
+
 ## Disclaimer
 
 This website is based on the Astro theme "Positivus" by [Olga Averchenko](https://www.figma.com/@olgaaverchenko).
+
+## Technologies
+This project is tested with the following technologies:
+- yarn 1.22.19
 
 ## 📄 License
 
