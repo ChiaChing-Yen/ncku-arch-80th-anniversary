@@ -2,24 +2,24 @@
     "team":
     [
         {
-            "title": "CEO and Founder",
-            "name": "John Smith",
+            "title": "總召集人",
+            "name": "葉玉祥",
             "description": "10+ years of experience in digital marketing. Expertise in SEO, PPC, and content strategy",
-            "profile": "/team/c1.png",
+            "profile": "https://www.arch.ncku.edu.tw/upload/cht/161/233_img_1.jpg",
             "link": "/"
         },
         {
-            "title": "Director of Operations",
-            "name": "Jane Doe",
+            "title": "系主任",
+            "name": "薛丞倫",
             "description": "7+ years of experience in project management and team leadership. Strong organizational and communication skills",
-            "profile": "/team/c2.png",
+            "profile": "https://www.arch.ncku.edu.tw/upload/cht/161/215_img_1.jpg",
             "link": "/"
         },
         {
             "title": "Senior SEO Specialist",
             "name": "Michael Brown",
             "description": "5+ years of experience in SEO and content creation. Proficient in keyword research and on-page optimization",
-            "profile": "/team/c3.png",
+            "profile": "https://www.arch.ncku.edu.tw/upload/cht/161/215_img_1.jpg",
             "link": "/"
         }
 

@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "name1": "北展",
-        "name2": "optimization",
+        "name1": "八十",
+        "name2": "週年展",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "name1": "演講",
+        "name1": "開幕論壇",
         "name2": "",
         "background": "h-[310px] p-12 bg-brick rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
@@ -19,8 +19,8 @@
     },
     {
         "id": 3,
-        "name1": "Social Media",
-        "name2": "Marketing",
+        "name1": "週二",
+        "name2": "建築論壇",
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
         "link": "./",
@@ -28,8 +28,8 @@
     },
     {
         "id": 4,
-        "name1": "Email",
-        "name2": "Marketing",
+        "name1": "系館",
+        "name2": "改造",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
@@ -37,8 +37,8 @@
     },
     {
         "id": 5,
-        "name1": "Content",
-        "name2": "Creation",
+        "name1": "校慶",
+        "name2": "系友回娘家",
         "background": "h-[310px] p-12 bg-brick rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
@@ -46,8 +46,8 @@
     },
     {
         "id": 6,
-        "name1": "Analytics and",
-        "name2": "Tracking",
+        "name1": "下個",
+        "name2": "十年",
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
         "link": "./",
