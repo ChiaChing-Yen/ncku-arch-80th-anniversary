@@ -1,13 +1,13 @@
 [
   {
     "id":1,
-    "type": "Tutorial",
-    "title": "How to quickly deploy a static website",
-    "publish_date": "14 days ago",
+    "type": "週二建築論壇",
+    "title": "建築教育數位轉型",
+    "publish_date": "2024-01-01",
     "brief": "Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers.",
     "description": "Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers. Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers.",
-    "author": "Jese Leos",
-    "authorImage": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png"
+    "author": "鄭泰昇",
+    "authorImage": "https://www.arch.ncku.edu.tw/upload/cht/161/65_img_1.jpg"
   },
   {
     "id":2,
