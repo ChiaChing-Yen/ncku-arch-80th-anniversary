@@ -3,6 +3,7 @@ import Layout from './Layout.astro';
 import BlogSideBar from '../components/blog/BlogSideBar.astro';
 import BlogContent from '../components/blog/BlogContent.astro';
 import RecentBlogPosts from '../components/generic/RecentBlogPosts.astro';
+import Prose from '../components/Prose.astro';
 
 const ogImage = new URL(`/v1/generate/og/${Astro.params.slug}.png`, Astro.url);
 
@@ -13,13 +14,14 @@ const { title, description } = content;
 <Layout
   title={title as string}
   description={description as string}
-  ogImage={ogImage}
 >
   <main class='p-6 lg:grid lg:grid-cols-3 flex justify-center'>
     <BlogSideBar headings={headings} />
+    <Prose>
     <BlogContent content={content}>
       <slot />
     </BlogContent>
+    </Prose>
   </main>
   <section class='p-6'>
     <RecentBlogPosts count={6} />

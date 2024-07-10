@@ -6,12 +6,11 @@ interface Props {
 const { content } = Astro.props;
 ---
 
-<article class='prose-slate w-sm md:w-prose md:prose poppins'>
+<article class='text-sm md:text-lg'>
   <a href='/blog/' title='Back to blog'>&larr; Back to blog</a>
-  <p class='text-slate text-sm md:text-base'>
+  <p class='text-lg text-brick'>
     Published on {content.pubDate} by {content.author}
-  </p>
+  </p><br/>
   <slot />
-  <p class='text-slate'>Written by {content.author}</p>
   <a href='/blog/' title='Back to blog'>&larr; Back to blog</a>
 </article>
