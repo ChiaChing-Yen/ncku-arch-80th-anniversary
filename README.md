@@ -35,6 +35,12 @@ This website is based on the Astro theme "Positivus" by [Olga Averchenko](https:
 This project is tested with the following technologies:
 - yarn 1.22.19
 
+## Notes
+`blogs` are part of the template, but it is replaced with the `blog` in this project, which is copied from the brutal template.
+
+## TODO
+- [ ] remove brutal-ui dependencies(`@eliancodes/brutal-ui`) and sharp(devDependencies)
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
