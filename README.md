@@ -27,6 +27,18 @@ All commands are run from the root of the project, from a terminal:
 
 alternatively, you can use `yarn` to run the commands.
 
+## Deployment
+
+Use docker to deploy the website.
+
+```bash
+docker build -t ncku-arch-80th-anniversary .
+```
+
+```bash
+docker run -p 8080:4321 ncku-arch-80th-anniversary
+```
+
 ## Disclaimer
 
 This website is based on the Astro theme "Positivus" by [Olga Averchenko](https://www.figma.com/@olgaaverchenko).
