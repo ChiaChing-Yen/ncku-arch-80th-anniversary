@@ -16,41 +16,5 @@
         "arrow": "/services/ag.svg",
         "link": "./blog/tags/系館改造/",
         "image": "/services/02.svg"
-    },
-    {
-        "id": 3,
-        "name1": "週二",
-        "name2": "建築論壇",
-        "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
-        "arrow": "/services/aw.svg",
-        "link": "./",
-        "image": "/events/tuesday-forum.svg"
-    },
-    {
-        "id": 4,
-        "name1": "系館",
-        "name2": "改造",
-        "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
-        "arrow": "/services/ag.svg",
-        "link": "./",
-        "image": "/events/renovation.svg"
-    },
-    {
-        "id": 5,
-        "name1": "校慶",
-        "name2": "系友回娘家",
-        "background": "h-[310px] p-12 bg-brick rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
-        "arrow": "/services/ag.svg",
-        "link": "./",
-        "image": "/services/05.svg"
-    },
-    {
-        "id": 6,
-        "name1": "下個",
-        "name2": "十年",
-        "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
-        "arrow": "/services/aw.svg",
-        "link": "./",
-        "image": "/services/06.svg"
     }
 ]
