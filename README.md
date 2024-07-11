@@ -36,7 +36,7 @@ docker build -t ncku-arch-80th-anniversary .
 ```
 
 ```bash
-docker run -p 8080:8080 ncku-arch-80th-anniversary
+docker run --rm -p 8080:8080 ncku-arch-80th-anniversary
 ```
 
 ## Disclaimer
