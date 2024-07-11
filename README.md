@@ -41,7 +41,7 @@ docker run --rm -p 8080:8080 ncku-arch-80th-anniversary
 
 ## Disclaimer
 
-This website is based on the Astro theme "Positivus" by [Olga Averchenko](https://www.figma.com/@olgaaverchenko).
+This website is based on the Astro theme "Positivus" by [Manul Thanura](https://github.com/manulthanura), which is based on [Olga Averchenko](https://www.figma.com/@olgaaverchenko)'s design.
 
 ## Technologies
 This project is tested with the following technologies:
