@@ -1,0 +1,7 @@
+services:
+  ncku-arch-80th-anniversary:
+    image: ncku-arch-80th-anniversary
+    container_name: ncku-arch-80th-anniversary
+    ports:
+      - "8080:8080"
+    restart: unless-stopped
