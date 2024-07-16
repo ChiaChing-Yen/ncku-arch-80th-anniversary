@@ -15,7 +15,9 @@ import servicesData from './Data/events.json';
         {
         servicesData.map(({ background, name1, name2, arrow, link, image} ) => (
         <div class={background}>
+
             <div class="flex-col justify-center items-start gap-[93px] inline-flex">
+                <a href={link}>
                 <div class="flex-col justify-start items-start flex">
                     <div class="px-[7px] bg-brick-300 rounded-[7px] flex-col justify-start items-start gap-2.5 flex">
                         <div class=" text-3xl font-medium">{name1}</div>
@@ -24,16 +26,19 @@ import servicesData from './Data/events.json';
                         <div class="text-3xl font-medium">{name2}</div>
                     </div>
                 </div>
+                </a>
                 <a class="justify-start items-center gap-[15px] inline-flex" href={link}>
                     <div class="w-[41px] h-[41px] relative">
                         <img class="w-[41px] h-[41px] left-0 top-0 absolute" src={arrow} />
                     </div>
-                    <div class="text-xl font-normal leading-7">Learn more</div>
+                    <div class="text-xl font-normal leading-7">了解更多</div>
                 </a>
             </div>
+            <a href={link}>
             <div class="w-[210px] h-[170px] pt-0.5 pb-[1.95px] justify-center items-center flex">
                 <img class="md:block" src={image} />
             </div>
+            </a>
         </div>
         ))
         }
