@@ -1,6 +1,6 @@
 {
   "name": "ncku-arch-80th-anniversary",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "license": "MIT",
   "scripts": {
     "dev": "astro dev",
