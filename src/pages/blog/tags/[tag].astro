@@ -38,14 +38,10 @@ interface Props {
 const { tag, blogposts } = Astro.props;
 ---
 
-<Layout
-  title={`Blog: ${tag}`}
-  description={`Brutal Blog | All posts tagged with ${tag}`}
-  pageTitle={`Brutal Blog | Blogposts tagged with ${tag}`}
->
-  <main class='p-6 bg-purple grid gap-4'>
+<Layout>
+  <main class='p-6 grid gap-4'>
     <div>
-      <a href='/blog/' title='Back to blog'>&larr; Back to blog</a>
+      <a href='/80anniv/' title='Back to blog'>&larr; Back to home</a>
     </div>
     <BlogList posts={blogposts} />
   </main>
