@@ -1,3 +1,10 @@
+## 0.3.0
+host on subpath `/80anniv`
+
+### known issues
+- navbar is not working properly in mobile view
+- subpath are hardcoded in the source code
+
 ## 0.2.0
 Remove most components from the original template
 
