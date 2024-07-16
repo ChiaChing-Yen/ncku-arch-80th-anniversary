@@ -1,3 +1,10 @@
+## 0.4.0
+remove collpaseble navbar, and revert RWD breakpoint to original value
+
+### known issues
+- subpath are hardcoded in the source code
+- image will exceed the container in mobile view on some pages
+
 ## 0.3.0
 host on subpath `/80anniv`
 
