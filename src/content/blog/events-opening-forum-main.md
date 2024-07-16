@@ -5,7 +5,7 @@ author: "Team 80"
 tags:
   - 80週年活動
   - 論壇
-featureImgUrl: '/vi/placeholder.png'
+featureImgUrl: '/80anniv/vi/placeholder.png'
 description: 北展論壇
 layout: '../../layouts/BlogPost.astro'
 ---

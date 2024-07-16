@@ -4,12 +4,12 @@ pubDate: 01/03/2024 12:00
 author: "杜怡萱教授"
 tags:
   - 系館改造
-featureImgUrl: '/highlights/renovation/renovation-by-tu/lobby-exhib.jpg'
+featureImgUrl: '/80anniv/highlights/renovation/renovation-by-tu/lobby-exhib.jpg'
 description: 匯集從61級到111級，貫串50年的成大建築人的共同力量，打造了新的系館記憶。
 layout: '../../layouts/BlogPost.astro'
 ---
 
-![lobby](/highlights/renovation/renovation-by-tu/lobby-exhib.jpg)
+![lobby](/80anniv/highlights/renovation/renovation-by-tu/lobby-exhib.jpg)
 
 ## 系館核心空間與廁所改造總回顧
 

@@ -4,17 +4,17 @@
         "name1": "八十",
         "name2": "週年展",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
-        "arrow": "/services/ag.svg",
+        "arrow": "/80anniv/services/ag.svg",
         "link": "./blog/events-exhib-main/",
-        "image": "/events/exhibition.svg"
+        "image": "/80anniv/events/exhibition.svg"
     },
     {
         "id": 2,
         "name1": "開幕論壇",
         "name2": "",
         "background": "h-[310px] p-12 bg-brick rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
-        "arrow": "/services/ag.svg",
+        "arrow": "/80anniv/services/ag.svg",
         "link": "./blog/events-opening-forum-main/",
-        "image": "/events/opening-forum.svg"
+        "image": "/80anniv/events/opening-forum.svg"
     }
 ]

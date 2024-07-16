@@ -5,7 +5,7 @@ author: "Team 80"
 tags:
   - 80週年活動
   - 展覽
-featureImgUrl: '/vi/placeholder.png'
+featureImgUrl: '/80anniv/vi/placeholder.png'
 description: 小白宮展覽
 layout: '../../layouts/BlogPost.astro'
 ---
