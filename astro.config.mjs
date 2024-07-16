@@ -4,8 +4,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  buildOptions: {
-    site: '/80anniv',
-  },
+  site: 'https://app.rccn.dev',
+  base: '80anniv',
   integrations: [tailwind()]
 });
