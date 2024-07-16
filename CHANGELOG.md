@@ -1,3 +1,11 @@
+## 0.4.1
+remove blog sidebar
+
+### known issues
+- subpath are hardcoded in the source code
+- image will exceed the container in mobile view on some pages
+
+
 ## 0.4.0
 remove collpaseble navbar, and revert RWD breakpoint to original value
 
