@@ -1,9 +1,9 @@
 ---
-title: "週二建築論壇 姚昭智教授"
+title: "周二建築論壇 姚昭智教授"
 pubDate: 2024.03.26
 author: "姚昭智教授"
 tags:
-  - 週二建築論壇
+  - 周二建築論壇
 featureImgUrl: '/80anniv/highlights/80th-anniv-archi-talks/cover.jpg'
 description: 建築系結構教育及系館結構改造
 layout: '../../layouts/BlogPost.astro'

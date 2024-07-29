@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "name1": "週二",
+    "name1": "周二",
     "name2": "建築論壇",
     "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
     "arrow": "/80anniv/services/aw.svg",
-    "link": "./blog/tags/週二建築論壇/",
+    "link": "./blog/tags/周二建築論壇/",
     "image": "/80anniv/highlights/tuesday-forum.svg"
   },
   {

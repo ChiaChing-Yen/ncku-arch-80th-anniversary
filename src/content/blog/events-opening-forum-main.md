@@ -3,7 +3,7 @@ title: 北展論壇
 pubDate: 01/07/2024
 author: "Team 80"
 tags:
-  - 80週年活動
+  - 80周年活動
   - 論壇
 featureImgUrl: '/80anniv/vi/placeholder.png'
 description: 北展論壇
