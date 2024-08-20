@@ -7,10 +7,12 @@ const { content } = Astro.props;
 ---
 
 <article class='text-sm md:text-lg'>
+  <br>
   <a href='/80anniv/' title='Back to blog'>&larr; Back to home</a>
-  <p class='text-lg text-theme_blue'>
-    Published on {content.pubDate} by {content.author}
-  </p><br/>
+  <br>
   <slot />
   <a href='#' title='Back to top'>&uarr; Back to top</a>
+  <p class='text-lg text-theme_blue'>
+    Published on {content.pubDate} by {content.author}
+  </p>
 </article>
