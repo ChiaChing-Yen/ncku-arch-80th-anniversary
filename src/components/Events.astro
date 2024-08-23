@@ -4,68 +4,80 @@ import Topic from "./Topic.astro";
 import servicesData from './Data/events.json';
 ---
 <Container>
-<div class="relative flex-col items-center md:flex-row" id="events">
-    <Topic title="系列活動" description="" />
-</div>
-
-<div class="flex-row items-center my-6 p-14 bg-zinc-100 rounded-[45px]">
-    <div class="grid grid-cols-1 md:grid-cols-1 gap-4">
-        <div class="justify-start items-center gap-[275px] flex">
-             <div class="flex-col justify-start items-start gap-[26px] inline-flex text-black">
-                 <!-- <div class="text-3xl font-medium">活動宣言</div> -->
-                 <div class="text-lg font-normal">
-                    <p>80週年是一個重要的時間節點，透過一系列系慶活動擴展人們對建築教育與人居環境的「無限」想像。除了持續推進建築教育、培育優秀人才，促進整體建築環境永續的發展，舉辦系列論壇、展覽與相關活動，作為 80 年的慶賀，並為下一個 10 年提出願景。</p>
-                    <p>80週年系慶系列活動有兩個大方向：一個是往回看——透過老系友學生時期的作品回望歷史；一個是向前看——透過系友們討論未來建築教育的願景，展現成大建築系在研究與設計、學界到業界、在地與國際多元的革新想像。</p>
-                    <p>誠摯邀請大家參與接下來一系列的活動，希望各位系友共襄盛舉，一齊讓 80 週年的系慶，在台南 400 年的歷史脈絡中更顯意義，也為下一世代的建築教育建構全新想像！</p>
-                </div>
-                 <a href="./blog/events-manifesto/" class="px-[35px] py-5 bg-zinc-900 hover:bg-white text-white hover:text-black border rounded-[14px] justify-start items-start gap-2.5 inline-flex">
-                     <div class="text-center text-xl font-normal leading-7">繼續閱讀</div>
-                 </a>
-             </div>
-         </div>
-         <!-- <div class="hidden md:grid justify-items-center -m-20">
-             <img src="/80anniv/vi/tilt_8.png" width="50%" alt="cat"/>
-         </div> -->
-     </div>
- </div>
- 
-
-<div class="flex-row items-center py-5">
-    <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-4">
-
-        <!-- card start-->
-        {
-        servicesData.map(({ background, name1, name2, arrow, link, image} ) => (
-        <div class={background}>
-
-            <div class="flex-col justify-center items-start gap-[93px] inline-flex">
-                <a href={link}>
-                <div class="flex-col justify-start items-start flex">
-                    <div class="px-[7px] bg-theme_blue-300 rounded-[7px] flex-col justify-start items-start gap-2.5 flex">
-                        <div class=" text-3xl font-medium">{name1}</div>
-                    </div>
-                    <div class="px-[7px] bg-theme_blue-300 rounded-[7px] flex-col justify-start items-start gap-2.5 flex">
-                        <div class="text-3xl font-medium">{name2}</div>
-                    </div>
-                </div>
-                </a>
-                <a class="justify-start items-center gap-[15px] inline-flex" href={link}>
-                    <div class="w-[41px] h-[41px] relative">
-                        <img class="w-[41px] h-[41px] left-0 top-0 absolute" src={arrow} />
-                    </div>
-                    <div class="text-xl font-normal leading-7">了解更多</div>
-                </a>
-            </div>
-            <a href={link}>
-            <div class="w-[210px] h-[170px] pt-0.5 pb-[1.95px] justify-center items-center flex">
-                <img class="md:block" src={image} />
-            </div>
-            </a>
-        </div>
-        ))
-        }
-        <!-- card end-->
+    <div class="relative flex-col items-center md:flex-row" id="events">
+        <Topic title="系列活動" description="" />
     </div>
-</div>
+
+    <div class="flex-row items-center my-6 p-14 bg-zinc-100 rounded-[45px]">
+        <div class="grid grid-cols-1 md:grid-cols-1 gap-4">
+            <div class="justify-start items-center gap-[275px] flex">
+                 <div class="flex-col justify-start items-start gap-[26px] inline-flex text-black">
+                     <div class="text-3xl font-medium">Chapter 1</div>
+                     <div class="text-lg font-normal">
+                        <p class="pb-3">80週年是一個重要的時間節點，透過一系列系慶活動擴展人們對建築教育與人居環境的「無限」想像。除了持續推進建築教育、培育優秀人才，促進整體建築環境永續的發展，舉辦系列論壇、展覽與相關活動，作為 80 年的慶賀，並為下一個 10 年提出願景。</p>
+                        <p class="pb-3">80週年系慶系列活動有兩個大方向：一個是往回看——透過老系友學生時期的作品回望歷史；一個是向前看——透過系友們討論未來建築教育的願景，展現成大建築系在研究與設計、學界到業界、在地與國際多元的革新想像。</p>
+                        <p class="pb-3">誠摯邀請大家參與接下來一系列的活動，希望各位系友共襄盛舉，一齊讓 80 週年的系慶，在台南 400 年的歷史脈絡中更顯意義，也為下一世代的建築教育建構全新想像！</p>
+                    </div>
+                     <a href="./blog/events-manifesto/" class="px-[35px] py-2 bg-zinc-900 hover:bg-white text-white hover:text-black border rounded-[14px] justify-start items-start gap-2.5 inline-flex">
+                         <div class="text-center text-xl font-normal leading-7">→活動宣言</div>
+                     </a>
+                 </div>
+             </div>
+             <!-- <div class="hidden md:grid justify-items-center -m-20">
+                 <img src="/80anniv/vi/tilt_8.png" width="50%" alt="cat"/>
+             </div> -->
+         </div>
+     </div>
+
+
+    <div class="flex-row items-center py-5">
+        <div class="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 gap-4">
+
+            <!-- card start-->
+            {
+            servicesData.map(({ background, name1, name2, arrow, link, image} ) => (
+            <div class={background}>
+
+                <div class="flex-col justify-center items-start gap-[93px] inline-flex">
+                    <a href={link}>
+                    <div class="flex-col justify-start items-start flex">
+                        <div class="px-[7px] bg-theme_blue-300 rounded-[7px] flex-col justify-start items-start gap-2.5 flex">
+                            <div class=" text-3xl font-medium">{name1}</div>
+                        </div>
+                        <div class="px-[7px] bg-theme_blue-300 rounded-[7px] flex-col justify-start items-start gap-2.5 flex">
+                            <div class="text-3xl font-medium">{name2}</div>
+                        </div>
+                    </div>
+                    </a>
+                    <a class="justify-start items-center gap-[15px] inline-flex" href={link}>
+                        <div class="w-[41px] h-[41px] relative">
+                            <img class="w-[41px] h-[41px] left-0 top-0 absolute" src={arrow} />
+                        </div>
+                        <div class="text-xl font-normal leading-7">活動資訊</div>
+                    </a>
+                </div>
+                <a href={link}>
+                <div class="w-[210px] h-[170px] pt-0.5 pb-[1.95px] justify-center items-center flex">
+                    <img class="md:block" src={image} />
+                </div>
+                </a>
+            </div>
+            ))
+            }
+            <!-- card end-->
+        </div>
+    </div>
+    <div class="flex-row items-center my-6 p-14 bg-zinc-100 rounded-[45px]">
+        <div class="grid grid-cols-1 md:grid-cols-1 gap-4">
+            <div class="justify-start items-center gap-[275px] flex">
+                <div class="flex-col justify-start items-start gap-[26px] inline-flex text-black">
+                    <div class="text-3xl font-medium">Chapter 2</div>
+                    <div class="text-lg font-normal">
+                        <p class="pb-3">TBC</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 </Container>

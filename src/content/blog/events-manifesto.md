@@ -9,8 +9,8 @@ description: 「團圓」與「對話」
 layout: '../../layouts/BlogPost.astro'
 ---
 
-## 國立成功大學建築學系80周年
-## 系慶系列活動
+## 國立成功大學建築學系
+## 80周年系慶系列活動
 
 ![exhib banner](/80anniv/vi/main.png)
 
