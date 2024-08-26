@@ -15,14 +15,16 @@ const { title, description } = content;
   title={title as string}
   description={description as string}
 >
-  <main class='p-6 lg:grid lg:grid-cols-3 flex justify-center'>
+  <main class='p-6 lg:grid lg:grid-cols-4 flex justify-center'>
     <!--<BlogSideBar headings={headings} />-->
     <div></div>
+    <div class="lg:col-span-2">
     <Prose>
     <BlogContent content={content}>
       <slot />
     </BlogContent>
     </Prose>
+    </div>
   </main>
   <!--<section class='p-6'>-->
   <!--  <RecentBlogPosts count={6} />-->

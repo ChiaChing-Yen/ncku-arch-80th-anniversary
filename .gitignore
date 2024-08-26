@@ -1,6 +1,9 @@
 # build output
 dist/
 
+# IDE and code editor
+.idea
+
 # generated types
 .astro/
 
