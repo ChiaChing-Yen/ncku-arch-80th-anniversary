@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "name1": "開幕論壇",
+        "name1": "周年論壇",
         "name2": "",
         "background": "h-[310px] p-12 bg-theme_blue rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "/80anniv/services/ag.svg",
