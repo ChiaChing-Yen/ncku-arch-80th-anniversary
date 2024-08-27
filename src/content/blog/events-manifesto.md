@@ -36,6 +36,6 @@ __本文轉載自建築簡訊__
 #### 系列活動規劃
 80周年系慶主要的活動規劃包括實體展覽、系列論壇、活動網頁，以及文獻出版。
 
- - [<strong style="color: rgb(74, 117, 140);">展覽</strong>](/80anniv/blog/events-exhib-main/)
- - [<strong style="color: rgb(74, 117, 140);">論壇</strong>](/80anniv/blog/events-opening-forum-main/)
+ - [<strong style="color: rgb(74, 117, 139);">展覽</strong>](/80anniv/blog/events-exhib-main/)
+ - [<strong style="color: rgb(74, 117, 139);">論壇</strong>](/80anniv/blog/events-opening-forum-main/)
  - 出版

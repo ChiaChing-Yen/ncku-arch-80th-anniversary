@@ -16,5 +16,23 @@
   "arrow": "/80anniv/services/ag.svg",
   "link": "./blog/tags/系館改造/",
   "image": "/80anniv/highlights/renovation.svg"
+  },
+  {
+    "id": 3,
+    "name1": "NCKU ARCH",
+    "name2": "NEW YORK",
+    "background": "h-[310px] p-12 bg-theme_blue rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
+    "arrow": "/80anniv/services/ag.svg",
+    "link": "./blog/tags/成大建築在紐約/",
+    "image": "/80anniv/highlights/ny/empire-state-building.svg"
+  },
+  {
+    "id": 4,
+    "name1": "成大建築典藏",
+    "name2": "",
+    "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
+    "arrow": "/80anniv/services/aw.svg",
+    "link": "./blog/ncku_arch_archive/",
+    "image": "/80anniv/highlights/archive/archive.svg"
   }
 ]

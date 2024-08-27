@@ -16,7 +16,7 @@ export default {
 		stone: "#231F20",
 		lime: "#B9FF66",
 		brick: "rgb(237,122,122)",
-		theme_blue: "rgb(74, 117, 140)",
+		theme_blue: "rgb(74, 117, 139)",
 		zinc: {
 		  100: "#F3F3F3",
 		  200: "#F0F0F0",

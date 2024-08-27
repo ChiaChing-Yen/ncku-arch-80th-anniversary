@@ -22,7 +22,7 @@ layout: '../../layouts/BlogPost.astro'
 - **開幕**  2024/9/7(六) 10:00
 
 
-→[<strong style="color: rgb(74, 117, 140);">論壇場次</strong>](/80anniv/blog/events-opening-forum-main/)
+→[<strong style="color: rgb(74, 117, 139);">論壇場次</strong>](/80anniv/blog/events-opening-forum-main/)
 
 ### 南展
 
