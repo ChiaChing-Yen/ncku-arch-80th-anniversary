@@ -14,17 +14,17 @@ import highlightData from './Data/highlights.json';
         <!-- card start-->
         {
         highlightData.map(({ background, name1, name2, arrow, link, image} ) => (
-        <div class={background}>
-            <div class="flex-col justify-center items-start gap-[93px] inline-flex">
+        <div class={`relative ${background}`}>
+            <div class="z-10 flex-col justify-center items-start gap-[93px] inline-flex">
                 <a href={link}>
-                <div class="flex-col justify-start items-start flex">
-                    <div class="px-[7px] bg-theme_blue-300 rounded-[7px] flex-col justify-start items-start gap-2.5 flex">
-                        <div class=" text-3xl font-medium">{name1}</div>
+                    <div class="flex-col justify-start items-start flex">
+                        <div class="px-[7px] bg-theme_blue-300 rounded-[7px] flex-col justify-start items-start gap-2.5 flex">
+                            <div class=" text-3xl font-medium">{name1}</div>
+                        </div>
+                        <div class="px-[7px] bg-theme_blue-300 rounded-[7px] flex-col justify-start items-start gap-2.5 flex">
+                            <div class="text-3xl font-medium">{name2}</div>
+                        </div>
                     </div>
-                    <div class="px-[7px] bg-theme_blue-300 rounded-[7px] flex-col justify-start items-start gap-2.5 flex">
-                        <div class="text-3xl font-medium">{name2}</div>
-                    </div>
-                </div>
                 </a>
                 <a class="justify-start items-center gap-[15px] inline-flex" href={link}>
                     <div class="w-[41px] h-[41px] relative">
@@ -33,12 +33,16 @@ import highlightData from './Data/highlights.json';
                     <div class="text-xl font-normal leading-7">了解更多</div>
                 </a>
             </div>
-            <a href={link}>
-            <div class="w-[210px] h-[170px] pt-0.5 pb-[1.95px] justify-center items-center flex">
-                <!--<img class="hidden md:block" src={image} /> this will hide image on mobile-->
-                <img class=md:block" src={image} />
+            <div class="block lg:hidden absolute inset-0 bg-cover bg-center bg-no-repeat opacity-10 rounded-[45px]" style={{ backgroundImage: `url(${image})` }}>
+                <!-- Background image covers the entire card -->
             </div>
+            <a class="hidden lg:block" href={link}>
+                <div class="w-[210px] h-[170px] pt-0.5 pb-[1.95px] justify-center items-center flex">
+                    <!--<img class="hidden md:block" src={image} /> this will hide image on mobile-->
+                    <img src={image} alt={name1}/>
+                </div>
             </a>
+
         </div>
         ))
         }
