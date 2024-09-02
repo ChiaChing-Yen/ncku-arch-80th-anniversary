@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name1": "校慶",
+        "name2": "系友回娘家",
+        "background": "h-[310px] p-12 bg-theme_blue rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
+        "arrow": "/80anniv/services/ag.svg",
+        "link": "./blog/events-anniv1111/",
+        "image": "/80anniv/events/home.svg"
+    },
+    {
+        "id": 2,
+        "name1": "Inside Out",
+        "name2": "Outside In",
+        "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
+        "arrow": "/80anniv/services/aw.svg",
+        "link": "./blog/tags/國際鏈結/",
+        "image": "/80anniv/events/global.svg"
+    }
+]

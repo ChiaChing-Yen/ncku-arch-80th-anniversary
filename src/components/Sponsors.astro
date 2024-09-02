@@ -1,0 +1,27 @@
+---
+import Container from "./Container.astro"
+import Topic from "./Topic.astro";
+---
+<Container>
+    <div class="relative flex-col items-center md:flex-row" id="sponsors">
+        <Topic title="捐款名錄" description="" />
+    </div>
+
+    <div class="flex-row items-center my-6 p-14 bg-zinc-100 rounded-[45px]">
+        <div class="grid grid-cols-1 md:grid-cols-1 gap-4">
+            <div class="justify-start items-center gap-[275px] flex">
+                <div class="flex-col justify-start items-start gap-[26px] inline-flex text-black">
+                    <div class="text-lg font-normal">
+                        <!-- Truncated text, visible only on smallest screens -->
+                        <div id="sponsor_text" class="">
+                            <p class="pb-3">感謝各界人士、系友及團體對成大建築系80周年活動的慷慨捐款與支持！您的貢獻將使我們能夠成功舉辦一系列豐富多彩的活動，共同慶祝這個具有歷史意義的里程碑。</p>
+                        </div>
+                        <a href="./blog/sponsors/" class="px-[35px] py-2 bg-zinc-900 hover:bg-white text-white hover:text-black border rounded-[14px] justify-start items-start gap-2.5 inline-flex">
+                            <div class="text-center text-xl font-normal leading-7">→捐款名錄</div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</Container>
