@@ -12,11 +12,11 @@ layout: '../../layouts/BlogPost.astro'
 ---
 ![poster](/80anniv/events/global/poster-petra-blaisse.png)
 
-陳邁建築講座  / 成大建築八十周年
+陳邁建築講座<br>成大建築八十周年
 
 <h2 style="color: rgb(74, 117, 139);">Petra Blaisse</h2>
 
-藝術實踐：裡裡外外 / ART APPLIED: INSIDE OUTSIDE 
+藝術實踐：裡裡外外<br>ART APPLIED: INSIDE OUTSIDE 
 
 - __日期__  09/11 (三)
 - __地點__  忠泰講廳 Jut Hall 
