@@ -1,0 +1,39 @@
+---
+import Container from "./Container.astro";
+import Topic from "./Topic.astro";
+import BlogNewsCard from './blog/BlogNewsCard.astro';
+import { getCollection } from 'astro:content';
+
+// Fetch the blog posts and reverse the order to get the most recent posts first
+const posts = await getCollection('blog').then((collection) =>
+    collection.reverse()
+);
+
+// Take the top 5 most recent posts
+const sortedPosts = posts.slice(0, 5);
+
+
+// Log only the title and pubDate for debugging
+posts.forEach(post => {
+    console.log('Title:', post.data.title);
+    console.log('PubDate:', post.data.pubDate);
+});
+---
+
+<Container>
+    <div class="relative flex-col items-center md:flex-row" id="news">
+        <Topic title="最新消息" description="" />
+    </div>
+
+    <div class="flex-row items-center my-6 p-14 bg-zinc-100 rounded-[45px]">
+        <ul class='flex overflow-x-auto space-x-8'>
+            {
+                sortedPosts.map((post) => (
+                        <li class='flex-shrink-0'>
+                            <BlogNewsCard post={post} />
+                        </li>
+                ))
+            }
+        </ul>
+    </div>
+</Container>

@@ -1,6 +1,6 @@
 ---
 title: 南展
-pubDate: 01/07/2024
+pubDate: 2024.08.30
 author: "Team 80"
 tags:
   - 80周年活動

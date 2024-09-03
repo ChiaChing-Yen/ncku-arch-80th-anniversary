@@ -1,6 +1,6 @@
 ---
 title: -演講- Thinking and Building on Shaky Ground
-pubDate: 01/09/2024
+pubDate: 2024.08.28
 author: "曾成德"
 tags:
   - 80周年活動

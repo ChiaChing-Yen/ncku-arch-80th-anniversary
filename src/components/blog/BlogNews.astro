@@ -3,20 +3,24 @@ import type { CollectionEntry } from 'astro:content';
 import BlogNewsCard from './BlogNewsCard.astro';
 
 interface Props {
-  posts: CollectionEntry<'blog'>[];
+    posts: CollectionEntry<'blog'>[];
 }
 
+// Extract props
 const { posts } = Astro.props;
+
+// Sort posts by pubDate in descending order and take the top 5
+const sortedPosts = posts
+    .sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime())
+    .slice(0, 5);
 ---
 
-<ul class='grid md:grid-cols-2 lg:grid-cols-3 gap-8'>
-  {
-    posts.map((post) => {
-      return (
-        <li>
-          <BlogNewsCard post={post} />
-        </li>
-      );
-    })
-  }
+<ul class='flex overflow-x-auto space-x-8'>
+    {
+        sortedPosts.map((post) => (
+                <li class='flex-shrink-0'>
+                    <BlogNewsCard post={post} />
+                </li>
+        ))
+    }
 </ul>

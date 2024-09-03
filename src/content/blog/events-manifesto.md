@@ -1,6 +1,6 @@
 ---
 title: 策展宣言
-pubDate: 02/08/2024
+pubDate: "2023-08-01T00:00:00Z"
 author: "葉玉祥副教授"
 tags:
   - 80周年活動
