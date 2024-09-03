@@ -1,6 +1,6 @@
 ---
-title: 北展
-pubDate: 01/07/2024
+title: -展覽- 80週年展 北展
+pubDate: 2024.09.07
 author: "Team 80"
 tags:
   - 80周年活動

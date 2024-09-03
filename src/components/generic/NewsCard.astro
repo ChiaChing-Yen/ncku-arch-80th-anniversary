@@ -10,11 +10,12 @@ interface Props {
 const { title, pubDate, description } = Astro.props;
 ---
 
-<div class="flex flex-col p-6 mx-auto max-w-lg text-left text-gray-900 bg-white rounded-3xl border border-gray-100 shadow-card">
-  <div class="flex items-center space-x-4">
-    <span class="font-bold">{pubDate}</span>
-    <span class="font-bold">{title}</span>
-    <span>{description}</span>
+<!-- Remove explicit background and text colors, letting them be controlled by the hover styles -->
+<div class="flex flex-col p-6 text-left rounded-3xl">
+  <div class="flex items-center justify-between space-x-4">
+    <!-- Title and Description -->
+    <div class="flex items-center space-x-4">
+      <span class="font-bold">{title}</span>
+    </div>
   </div>
-  <slot />
 </div>

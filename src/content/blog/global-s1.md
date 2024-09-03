@@ -1,6 +1,6 @@
 ---
 title: -演講- Petra Blaisse
-pubDate: 2024.06.04
+pubDate: 2024.09.11
 author: "曾成德"
 tags:
   - 80周年活動
@@ -10,17 +10,22 @@ featureImgUrl: '/80anniv/events/global/petra-blaisse_portrait.jpg'
 description: 藝術實踐：裡裡外外
 layout: '../../layouts/BlogPost.astro'
 ---
-![poster](/80anniv/events/global/poster.png)
+![poster](/80anniv/events/global/poster-petra-blaisse.png)
+
+陳邁建築講座  / 成大建築八十周年
 
 <h2 style="color: rgb(74, 117, 139);">Petra Blaisse</h2>
-藝術實踐：裡裡外外
 
-ART APPLIED: INSIDE OUTSIDE 
+藝術實踐：裡裡外外 / ART APPLIED: INSIDE OUTSIDE 
 
 - __日期__  09/11 (三)
 - __地點__  忠泰講廳 Jut Hall 
 - __地址__ 台北市大安區市民大道三段178號忠泰企業大樓7樓
 - __時間__  19:00-21:00 (18:30報到)
+
+
+
+<div class="text-center text-xl font-normal leading-7"><a href="https://forms.gle/kvXPQouUqhyaZZTT6" class="px-[35px] py-2 bg-zinc-900 hover:bg-white text-white hover:text-black border rounded-[14px] justify-start items-start gap-2.5 inline-flex">→成大學生報名連結</a></div>
 
 
 
@@ -69,3 +74,24 @@ _“You have to act as if it were possible to radically transform the world. And
 
 ![image](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/457562270_8206867949393528_1555319946513312547_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jtk3xG0VuKgQ7kNvgHZKHla&_nc_ht=scontent-tpe1-1.xx&oh=00_AYA94jfdCVklCikA0XIKsAZ0lQb3grl2XOxYs2VNF2hr0g&oe=66DB5D34)
 ![image](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/457513716_8206869342726722_7366802827232880977_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oWaIFLEeupEQ7kNvgGVzLPJ&_nc_ht=scontent-tpe1-1.xx&oh=00_AYCHlx1BOr-1bLtx_vCG3zK09ul-06eYgdHhI4foEDU1fA&oe=66DB5AB7)
+
+_更多圖集請參考曾成德教授原文_
+
+
+### 主辦單位
+- 國立成功大學建築學系
+
+### 合辦單位
+- 宗邁建築師事務所
+- 成功大學建築系友會基金會
+
+### 協辦單位
+- 建築改革社
+- 臺灣女建築家學會
+- 臺灣建築學會
+- 中華民國全國建築師公會
+- 中華民國景觀學會
+- 中華民國室內設計協會
+- 場地方OOO
+- 教育部美感與設計課程創新計畫總計畫團隊
+

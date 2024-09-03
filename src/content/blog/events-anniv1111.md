@@ -1,12 +1,12 @@
 ---
-title: 南展
-pubDate: 2024.08.30
+title: -活動- 80周年展南展 - 系友回娘家
+pubDate: 2024.11.11
 author: "Team 80"
 tags:
   - 80周年活動
   - 校慶
 featureImgUrl: '/80anniv/vi/main.png'
-description: 系友回娘家
+description: 成大校慶系友回娘家
 layout: '../../layouts/BlogPost.astro'
 ---
 ![exhib banner](/80anniv/vi/main.png)
