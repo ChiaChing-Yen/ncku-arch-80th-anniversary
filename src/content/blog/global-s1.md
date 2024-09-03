@@ -1,5 +1,5 @@
 ---
-title: 藝術實踐：裡裡外外
+title: -演講- Petra Blaisse
 pubDate: 01/09/2024
 author: "曾成德"
 tags:
@@ -7,15 +7,27 @@ tags:
   - 國際鏈結
   - 演講
 featureImgUrl: '/80anniv/events/global/petra-blaisse_portrait.jpg'
-description: 哈佛 Margaret McCurry 講座
+description: 藝術實踐：裡裡外外
 layout: '../../layouts/BlogPost.astro'
 ---
+![poster](/80anniv/events/global/poster.png)
 
-_本文轉載自曾成德教授的 Facebook 貼文並經編輯排版。_
+<h2 style="color: rgb(74, 117, 139);">Petra Blaisse</h2>
+藝術實踐：裡裡外外
 
-[原文連結](https://www.facebook.com/share/p/vANtT9BvTWQkvSod/?mibextid=oFDknk)
+ART APPLIED: INSIDE OUTSIDE 
 
-## Margaret McCurry講座 藝術實踐：裡裡外外
+- __日期__  09/11 (三)
+- __地點__  忠泰講廳 Jut Hall 
+- __地址__ 台北市大安區市民大道三段178號忠泰企業大樓7樓
+- __時間__  19:00-21:00 (18:30報到)
+
+
+
+### 講者介紹
+_下文轉載自曾成德教授的 Facebook 貼文並經編輯排版。([原文連結](https://www.facebook.com/share/p/vANtT9BvTWQkvSod/?mibextid=oFDknk))_
+
+
 
 ![image](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/457519279_8206864016060588_3603572927455834206_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xtBwAsUhnrQQ7kNvgHiK2zy&_nc_ht=scontent-tpe1-1.xx&oh=00_AYCzwGJofQb7tTcfn0K_-RCUfiDdZOwoHa4Pvy2xCR7NWw&oe=66DB2CF4)
 

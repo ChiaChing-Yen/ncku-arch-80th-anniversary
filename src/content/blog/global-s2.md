@@ -1,5 +1,5 @@
 ---
-title: Thinking and Building on Shaky Ground
+title: -演講- Thinking and Building on Shaky Ground
 pubDate: 01/09/2024
 author: "曾成德"
 tags:
@@ -7,7 +7,7 @@ tags:
   - 國際鏈結
   - 演講
 featureImgUrl: 'https://www.gsd.harvard.edu/wp-content/uploads/2016/06/Yun-Fu_Bio-Pic-2020.jpg'
-description: GSD Yun Fu 演講
+description: GSD Yun Fu
 layout: '../../layouts/BlogPost.astro'
 ---
 
@@ -17,7 +17,7 @@ layout: '../../layouts/BlogPost.astro'
 
 - 講者: Yun Fu
 - 時間: 2024/09/16（一）19：00
-- 地點: c-hub 3fl
+- 地點: C-Hub 3F
 
 ## 關於講者
 [Yun Fu](https://www.gsd.harvard.edu/person/yun-fu/) is an architect and partner of Semester Studio, a design and research office for buildings, objects, and neighborhoods. Based in New Zealand and Hong Kong and working internationally, the studio received the 2020 Rome Prize in Architecture at the British School, the Australian Home of Tomorrow Competition First Prize, and was one of five international finalists for the National Gallery of Victoria’s 2021 Summer Pavillion Commission in Melbourne. Yun had trained with Glenn Murcutt in Sydney, ZAO/standardarchitecture in Beijing, and Foster+Partners in London prior to establishing the studio with partners Manus Leung and Wenting Guo.
