@@ -20,9 +20,8 @@ layout: '../../layouts/BlogPost.astro'
 - __日期__  09/11 (三)
 - __地點__  TICC 台北國際會議中心 102廳
 - __地址__  台北市信義路五段1號 / 台北101/世貿站1號出口
-- __時間__  19:00-21:00 (18:30報到)
+- __時間__  19:00-21:00 (18:15入場 18:45候補入場)
 
-<small style="color: rgb(174, 174, 174);">*活動地點以網頁資訊(台北國際會議中心)為準，海報尚在修改中</small>
 
 <div class="text-left text-xl font-normal leading-7">
   <a href="https://forms.gle/kvXPQouUqhyaZZTT6" class="px-[35px] py-2 bg-zinc-900 hover:bg-white text-white hover:text-black border rounded-[14px] inline-block">→成大師生報名連結</a>
@@ -90,9 +89,9 @@ _更多圖集請參考曾成德教授原文_
 - 建築改革社
 - 臺灣女建築家學會
 - 臺灣建築學會
-- 中華民國全國建築師公會
+- 中華民國建築師公會全國聯合會
 - 中華民國景觀學會
+- 中華民國都市設計學會
 - 中華民國室內設計協會
-- 場地方OOO
 - 教育部美感與設計課程創新計畫總計畫團隊
 
