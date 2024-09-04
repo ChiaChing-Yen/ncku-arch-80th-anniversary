@@ -12,20 +12,21 @@ layout: '../../layouts/BlogPost.astro'
 ---
 ![poster](/80anniv/events/global/poster-petra-blaisse.png)
 
-陳邁建築講座<br>成大建築八十周年
-
+<small style="color: rgb(174, 174, 174);">陳邁建築講座<br>成大建築八十周年</small>
 <h2 style="color: rgb(74, 117, 139);">Petra Blaisse</h2>
 
 藝術實踐：裡裡外外<br>ART APPLIED: INSIDE OUTSIDE 
 
 - __日期__  09/11 (三)
-- __地點__  (地點確認中)國立臺灣博物館南門館 小白宮
-- __地址__  (地點確認中)南昌路一段1號/中正紀念堂站1號出口
+- __地點__  TICC 台北國際會議中心 102廳
+- __地址__  台北市信義路五段1號 / 台北101/世貿站1號出口
 - __時間__  19:00-21:00 (18:30報到)
 
+<small style="color: rgb(174, 174, 174);">*活動地點以網頁資訊(台北國際會議中心)為準，海報尚在修改中</small>
 
-
-<div class="text-center text-xl font-normal leading-7"><a href="https://forms.gle/kvXPQouUqhyaZZTT6" class="px-[35px] py-2 bg-zinc-900 hover:bg-white text-white hover:text-black border rounded-[14px] justify-start items-start gap-2.5 inline-flex">→成大學生報名連結</a></div>
+<div class="text-left text-xl font-normal leading-7">
+  <a href="https://forms.gle/kvXPQouUqhyaZZTT6" class="px-[35px] py-2 bg-zinc-900 hover:bg-white text-white hover:text-black border rounded-[14px] inline-block">→成大師生報名連結</a>
+</div>
 
 
 
