@@ -12,27 +12,34 @@ layout: '../../layouts/BlogPost.astro'
 ---
 ![poster](/80anniv/events/global/poster-petra-blaisse.png)
 
-<small style="color: rgb(174, 174, 174);">陳邁建築講座<br>成大建築八十周年</small>
-<h2 style="color: rgb(74, 117, 139);">Petra Blaisse</h2>
+<small style="color: rgb(174, 174, 174);">陳邁建築講座2024<br>成大建築八十周年</small>
+<h2 style="color: rgb(74, 117, 139);">Petra Blaisse 藝術實踐：裡裡外外</h2>
 
-藝術實踐：裡裡外外<br>ART APPLIED: INSIDE OUTSIDE 
 
-- __日期__  09/11 (三)
-- __地點__  TICC 台北國際會議中心 102廳
-- __地址__  台北市信義路五段1號 / 台北101/世貿站1號出口
-- __時間__  19:00-21:00 (18:15入場 18:45候補入場)
+陳邁建築講座 2024 邀請了 Inside Outside 的 Petra Blaisse 和 ETH Zurich 兩位年輕建築教授 Fredi Fischli 與 Niels Olsen 擔任講座貴賓。
 
+陳邁先生敦厚、踏實，提拔年輕世代、參與公共事務、倡議社會溝通，領導建築專業改革。陳邁先生以身作則，橫跨教育與實踐，曾經任教國內多校建築系，也曾擔任過系主任一職，並聯袂費宗澄先生成立宗邁建築師事務所。漢寶德先生曾為文《陳邁與我》寫道：「朋友中，陳邁是敦厚而毫無心機的君子⋯ 每次見面，心頭都充滿著溫暖的感覺。」
+
+時逢成功大學建築系成立80週年，宗邁建築師事務所成立50週年，攜手成大建築文教基金會，追隨陳邁先生的風範，秉承「陳邁建築講座」的理念，邀請 Petra Blaisse，以及 Fredi Fischli 與 Niels Olsen  教授擔任講座貴賓，以橫跨不同世代觀點，暢談教育與專業、藝術與設計、建築與環境，策展與行動，以及建築、景觀、設計等專業如何與社會大眾溝通。
+
+- 主講人：Petra Blaisse
+- 與談人：Fredi Fischli  & Niels Olsen
+- 講題：藝術實踐：裡裡外外
+- 日期：2024.09.11 (三)
+- 時間： 19：00~21：00 (18:15 開放入場，18:45開放現場候補，18:55管制入場)
+- 地點：台北國際會議中心 TICC 講廳
+- 地址：台北市信義區信義路五段一號
+- 報名：請預留日期參加，報名連結訂於 2024.09.06 中午 12:00  開啟
+
+<small style="color: rgb(174, 174, 174);">*註：由於反應熱烈，正洽詢TICC是否可能移至更大場地中。請隨時注意活動更新消息，不週之處請包涵)</small>
 
 <div class="text-left text-xl font-normal leading-7">
-  <a href="https://forms.gle/kvXPQouUqhyaZZTT6" class="px-[35px] py-2 bg-zinc-900 hover:bg-white text-white hover:text-black border rounded-[14px] inline-block">→成大師生報名連結</a>
+  <a href="" class="px-[35px] py-2 bg-zinc-900 hover:bg-white text-white hover:text-black border rounded-[14px] inline-block">→報名連結(尚未開放)</a>
 </div>
-
 
 
 ### 講者介紹
 _下文轉載自曾成德教授的 Facebook 貼文並經編輯排版。([原文連結](https://www.facebook.com/share/p/vANtT9BvTWQkvSod/?mibextid=oFDknk))_
-
-
 
 ![image](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/457519279_8206864016060588_3603572927455834206_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=xtBwAsUhnrQQ7kNvgHiK2zy&_nc_ht=scontent-tpe1-1.xx&oh=00_AYCzwGJofQb7tTcfn0K_-RCUfiDdZOwoHa4Pvy2xCR7NWw&oe=66DB2CF4)
 
