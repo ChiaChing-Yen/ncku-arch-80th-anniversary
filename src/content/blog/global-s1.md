@@ -29,12 +29,12 @@ layout: '../../layouts/BlogPost.astro'
 - 時間： 19：00~21：00 (18:15 開放入場，18:45開放現場候補，18:55管制入場)
 - 地點：台北國際會議中心 TICC 講廳
 - 地址：台北市信義區信義路五段一號
-- 報名：請預留日期參加，報名連結訂於 2024.09.06 中午 12:00  開啟
+- 報名：請預留日期參加，公開報名連結訂於 2024.09.06 中午 12:00  開啟
 
 <small style="color: rgb(174, 174, 174);">*註：由於反應熱烈，正洽詢TICC是否可能移至更大場地中。請隨時注意活動更新消息，不週之處請包涵)</small>
 
 <div class="text-left text-xl font-normal leading-7">
-  <a href="" class="px-[35px] py-2 bg-zinc-900 hover:bg-white text-white hover:text-black border rounded-[14px] inline-block">→報名連結(尚未開放)</a>
+  <a href="https://forms.gle/kvXPQouUqhyaZZTT6" class="px-[35px] py-2 bg-zinc-900 hover:bg-white text-white hover:text-black border rounded-[14px] inline-block">→成大學生報名連結</a>
 </div>
 
 
