@@ -15,8 +15,19 @@ layout: '../../layouts/BlogPost.astro'
 感謝國立臺灣博物館合辦這場展覽與論壇，提供指導與場地，讓這次活動得以更加圓滿順利地舉行！
 
 ### 捐款名錄
-感謝以下各界人士、系友及團體對成大建築系80周年活動的慷慨捐款與支持！您的貢獻將使我們能夠成功舉辦一系列豐富多彩的活動，共同慶祝這個具有歷史意義的里程碑。我們謹以姓氏或團體名稱首字順序排列，向您致以最誠摯的感謝：
+感謝以下各界人士、系友及團體對成大建築系80周年活動的慷慨捐款與支持！您的貢獻將使我們能夠成功舉辦一系列豐富多彩的活動，共同慶祝這個具有歷史意義的里程碑。我們謹以姓氏或團體名稱首字注音排列，向您致以最誠摯的感謝：
 
+<style>
+  /* Target the first column and align text to the left */
+  table td:first-child {
+    text-align: left;
+  }
+
+  /* Target the second column and align text to the right */
+  table td:nth-child(2) {
+    text-align: right;
+  }
+</style>
 | | |
 | --- | --- |
 |馬屯               |160,000     |
