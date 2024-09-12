@@ -1,6 +1,6 @@
 ---
 title: -演講- Petra Blaisse
-pubDate: 2024.12.30
+pubDate: 2024.09.11
 author: "曾成德"
 tags:
   - 80周年活動
