@@ -7,7 +7,7 @@ tags:
   - 展覽
   - 北展
 featureImgUrl: '/80anniv/vi/placeholder.png'
-description: 小白宮展覽
+description: 八十週年展北展設計、製作、展出紀實。
 layout: '../../layouts/BlogPost.astro'
 ---
 
@@ -138,6 +138,9 @@ layout: '../../layouts/BlogPost.astro'
   const modalImg = document.getElementById("modalImage");
   const captionText = document.getElementById("modalCaption");
   const images = document.querySelectorAll(".gallery img");
+
+  // Make sure the modal stays hidden initially
+  modal.style.display = "none";
   
   images.forEach(image => {
     image.onclick = function() {
