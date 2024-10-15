@@ -5,7 +5,8 @@ author: "Team 80"
 tags:
   - 80周年活動
   - 展覽
-featureImgUrl: '/80anniv/vi/placeholder.png'
+  - 北展
+featureImgUrl: '/80anniv/docs/north-exhib/graphic/展場剖面圖AA_.jpg'
 description: 小白宮展覽
 layout: '../../layouts/BlogPost.astro'
 ---
