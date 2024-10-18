@@ -82,7 +82,7 @@ layout: '../../layouts/BlogPost.astro'
     .caption {
       text-align: center;
       color: #fff;
-      margin-top: 10px;
+      margin-top: -5px;
     }
     .close {
       position: absolute;
