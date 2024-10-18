@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name1": "校慶",
+        "name1": "南展&論壇",
         "name2": "系友回娘家",
         "background": "h-[310px] p-12 bg-theme_blue rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "/80anniv/services/ag.svg",
