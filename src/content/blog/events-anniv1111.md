@@ -98,17 +98,17 @@ layout: '../../layouts/BlogPost.astro'
   <tr>
     <td>13:30-15:30</td>
     <td>系館大廳</td>
-    <td><strong class="strong-white">成大建築在紐約分享評圖 / 威尼斯建築雙年展</strong><br><div class="custom-box-text">主持人：薛丞倫</div></td>
+    <td><strong class="strong-white">成大建築在紐約分享評圖 / 威尼斯建築雙年展</strong>
   </tr>
   <tr>
     <td>16:00-17:00</td>
     <td>院圖</td>
-    <td><strong class="strong-white">80系慶展覽導覽</strong><br><div class="custom-box-text">主持人：薛丞倫</div></td>
+    <td><strong class="strong-white">80系慶展覽導覽</strong>
   </tr>
   <tr>
     <td>17:00-17:15</td>
     <td>RAC-Coon</td>
-    <td><strong class="strong-white">RAC-Coon導覽</strong></td>
+    <td><strong class="strong-white">RAC-Coon機械手臂導覽</strong></td>
   </tr>
   <tr>
     <td>17:30-18:00</td>
@@ -118,7 +118,7 @@ layout: '../../layouts/BlogPost.astro'
   <tr>
     <td>18:00-20:30</td>
     <td>成大中正堂</td>
-    <td><strong class="strong-white">校友之夜辦桌</strong><small class="custom-box-text">(以捐款認桌為主)</small></td>
+    <td><strong class="strong-white">校友之夜辦桌</strong><small class="custom-box-text">(捐款認桌)</small></td>
   </tr>
 </table>
 
