@@ -23,18 +23,106 @@ layout: '../../layouts/BlogPost.astro'
 
 ---
 
-## 系友回娘家
-### 11.10 (日)
-| 時段          | 地點 | 內容                                                                                                |
-|:------------|:------------|:--------------------------------------------------------------------------------------------------|
-| 10:30 | 系館大廳 | **報到**                                                                           |
-| 11:00-12:00 | 系館大廳 | **系慶80周年開幕 / 系友分享**                                                                           |
-| 12:00-13:30 | 系館大廳 | **餐敘聯誼**      |                                                                                   |
-| 13:30-15:30 | 系館大廳 | **成大建築在紐約分享評圖 / 威尼斯建築雙年展**<br>主持人：薛丞倫|
-| 16:00-17:00 | 院圖 | **80系慶展覽導覽**<br>主持人：薛丞倫 |
-| 17:00-17:15 | RAC-Coon | **RAC-Coon導覽** |
-| 17:30-18:00 | 未來館 | **成大藝術中心「黃文暉特展｣導覽**|
-| 18:00-20:30 | 成大中正堂 | **校友之夜辦桌** <small style="color: grey;">(捐款認桌為主)</small>|
+
+<style>
+  .custom-box {
+    background-color: rgb(74, 117, 139);
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: left;
+  }
+
+  .custom-box-h2 {
+    color: white;
+    text-decoration: none;
+  }
+
+  .custom-box-h3 {
+    color: white;
+    text-decoration: none;
+  }
+
+  .custom-box-table-header {
+    color: white;
+    text-decoration: none;
+    text-align: left;
+  }
+
+  .custom-box-text{
+    color: white;
+    opacity: 0.5;
+  }
+
+  .strong-white {
+    color: white;
+  }
+
+  .th {
+    color: white;
+    text-align: left;
+  }
+
+  .custom-box table {
+    width: 80%; /* Makes the table expand to fit the box */
+  }
+</style>
+
+<div style="color: white" class="custom-box">
+
+<h2 style="width: 90%; color: white; margin: 20px auto 0 auto;" class="custom-box-h2">系友回娘家</h2>
+
+<h3 style="width: 90%; color: white; margin: 0 auto;" class="custom-box-h2"> 11.10 (日)</h3>
+
+<table style="width: 90%; color: white; margin: 20px auto 20px auto;">
+  <tr>
+    <td><strong class="strong-white">時段</td>
+    <td><strong class="strong-white">地點</td>
+    <td><strong class="strong-white">內容</td>
+  </tr>
+  <tr>
+    <td class=>10:30</td>
+    <td>系館大廳</td>
+    <td><strong class="strong-white">報到</strong></td>
+  </tr>
+  <tr>
+    <td>11:00-12:00</td>
+    <td>系館大廳</td>
+    <td><strong class="strong-white">系慶80周年開幕 / 系友分享</strong></td>
+  </tr>
+  <tr>
+    <td>12:00-13:30</td>
+    <td>系館大廳</td>
+    <td><strong class="strong-white">餐敘聯誼</strong></td>
+  </tr>
+  <tr>
+    <td>13:30-15:30</td>
+    <td>系館大廳</td>
+    <td><strong class="strong-white">成大建築在紐約分享評圖 / 威尼斯建築雙年展</strong><br><div class="custom-box-text">主持人：薛丞倫</div></td>
+  </tr>
+  <tr>
+    <td>16:00-17:00</td>
+    <td>院圖</td>
+    <td><strong class="strong-white">80系慶展覽導覽</strong><br><div class="custom-box-text">主持人：薛丞倫</div></td>
+  </tr>
+  <tr>
+    <td>17:00-17:15</td>
+    <td>RAC-Coon</td>
+    <td><strong class="strong-white">RAC-Coon導覽</strong></td>
+  </tr>
+  <tr>
+    <td>17:30-18:00</td>
+    <td>未來館</td>
+    <td><strong class="strong-white">成大藝術中心「黃文暉特展」導覽</strong></td>
+  </tr>
+  <tr>
+    <td>18:00-20:30</td>
+    <td>成大中正堂</td>
+    <td><strong class="strong-white">校友之夜辦桌</strong><small class="custom-box-text"ㄋㄋ>(以捐款認桌為主)</small></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
