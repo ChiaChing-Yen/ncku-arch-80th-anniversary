@@ -118,7 +118,7 @@ layout: '../../layouts/BlogPost.astro'
   <tr>
     <td>18:00-20:30</td>
     <td>成大中正堂</td>
-    <td><strong class="strong-white">校友之夜辦桌</strong><small class="custom-box-text"ㄋㄋ>(以捐款認桌為主)</small></td>
+    <td><strong class="strong-white">校友之夜辦桌</strong><small class="custom-box-text">(以捐款認桌為主)</small></td>
   </tr>
 </table>
 
