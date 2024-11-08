@@ -1,0 +1,20 @@
+---
+import Container from "./Container.astro"
+---
+<Container>
+    <div class="relative flex flex-col-reverse items-center md:flex-row w-full" id="feature">
+        <div class="relative flex items-center justify-center my-2 p-2 md:my-4 md:p-12 bg-zinc-100 rounded-[30px] md:rounded-[45px] overflow-hidden w-full">
+            <!-- Aspect Ratio Container -->
+            <div class="w-full aspect-[16/9] rounded-[30px] md:rounded-[45px] overflow-hidden">
+                <iframe 
+                    title="成大建築八十周年" 
+                    src="https://video.rccn.dev/videos/embed/5b5704fe-72db-4e01-82cf-50832c9cf6f8?title=0&loop=1&autoplay=1&muted=1&warningTitle=0&peertubeLink=0" 
+                    frameborder="0" 
+                    allowfullscreen 
+                    sandbox="allow-same-origin allow-scripts allow-popups allow-forms"
+                    class="absolute inset-0 w-full h-full"
+                ></iframe>
+            </div>
+        </div>
+    </div>    
+</Container>
