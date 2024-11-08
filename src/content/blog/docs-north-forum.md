@@ -1,5 +1,5 @@
 ---
-title: -紀實- 80週年展 北展 論壇紀實
+title: -紀實- 80周年展 北展 論壇紀實
 pubDate: 2024.11.08
 author: "Team 80"
 tags:
