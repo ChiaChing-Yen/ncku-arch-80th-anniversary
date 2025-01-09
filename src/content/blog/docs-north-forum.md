@@ -1,17 +1,22 @@
 ---
-title: -紀實- 80周年展 北展 論壇紀實
+title: -回顧- 80周年展 北展 論壇回顧
 pubDate: 2024.11.08
 author: "Team 80"
 tags:
   - 80周年活動
   - 展覽
   - 北展
-featureImgUrl: '/80anniv/vi/placeholder.png'
-description: 八十週年展北展設計、製作、展出紀實。
+  - 回顧
+featureImgUrl: '/80anniv/docs/north-feature.jpg'
+description: 八十周年展北展各場次論壇影片紀錄。
 layout: '../../layouts/BlogPost.astro'
 ---
 
-# 80週年展 北展 論壇紀實
+# 80週年展 北展 論壇回顧
+
+## 80週年展 北展 展出精華
+ 
+<div style="position: relative; padding-top: 56.25%;"><iframe title="成大建築八十周年南展" width="100%" height="100%" src="https://video.rccn.dev/videos/embed/5b5704fe-72db-4e01-82cf-50832c9cf6f8?warningTitle=0&amp;peertubeLink=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" style="position: absolute; inset: 0px;"></iframe></div>
 
 ## 09.07 (六)
 
